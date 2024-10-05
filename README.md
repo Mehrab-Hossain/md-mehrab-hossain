@@ -115,5 +115,5 @@ various results
 2. **Vice-President**, SEC Programming Club (_June 2023 - December 2024_)
 
 ## Contact Info
-**Email:** hmehrab786@gmail.com
-**Google-Scholar:**[Link](https://scholar.google.com/citations?user=ivNRx64AAAAJ&hl=en)
+-**Email:** hmehrab786@gmail.com
+-**Google-Scholar:**[Link](https://scholar.google.com/citations?user=ivNRx64AAAAJ&hl=en)

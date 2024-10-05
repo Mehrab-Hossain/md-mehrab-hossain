@@ -9,6 +9,8 @@
 - Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision
 
 ## Publications
+
+**Live Papers**
 1.  Critical Analysis of BERT and LSTM Model for Bengali Sentiment Analysis Across Varied Datasets.
 Hossain M, Akhi IAH, Raisa SRS, Onni TS, Rifat AI, Islam A.In 2023 IEEE 15th International
 Conference on Computational Intelligence and Communication Networks (CICN), Thailand 2023 Dec20. IEEE. (pp. 1-6).
@@ -32,6 +34,18 @@ on Emerging Research Electronics, Computer Science and Technology (ICERECT), Ind
 IEEE. 
 [Link](https://ieeexplore.ieee.org/document/10060409)
 
+**Accepted Paper & Waiting for Published**
+1. Deep Learning Approaches for Sensitivity Prediction in Bengali News Text.
+2. Optimizing Round Robin Scheduling with DBSCAN-Driven Process Clustering and Machine
+Learning-Guided Time. Quantum Prediction for Minimizing Waiting Times and Context Switch.
+
+**Submitted & Under Review**
+1. A Large-Scale Bengali Paraphrase Generation Dataset: Comprehensive Study of
+Language Models and Performance Analysis.
+2. A Large Scale Dataset for Multilingual Summarization with a novel Filtering approach and Model
+evaluation.
+3. Deep Learning Based Vehicle Classification in Autonomous Driving on Foggy and Rainy Weather.
+4. Classification of Four Different Types of Cracks in Walls and Pavements Using CNN Architecture
 
 
 ## Work Experience

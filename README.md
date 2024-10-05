@@ -7,25 +7,29 @@
 
 ## Work Experience
 
-** Teaching Assistant **
+**Teaching Assistant**
 - Sylhet Engineering College (_September 2022 - May 2023_)
 - Responsible for the academic needs of Adjunct Lecturer of CSE department Ashraful Islam Hridoy
 
-** Teaching Assistant **
+**Teaching Assistant**
 - Sylhet Engineering College (_June 2023 - Present_)
 - Responsible for the academic needs of Head of CSE department Md Abu Naser Mojumder
 
-** Research Assistant **
+**Research Assistant**
 - Sylhet Engineering College (_September 2023 - Present_)
 - Work under the supervision of Head of CSE department Md Abu Naser Mojumder
 - Providing seminars and workshop for final year students concerning their academic thesis.
 
-** Research Assistant **
+**Research Assistant**
 - University of Regina (_June 2023 - Present_)
 - Work under the supervision of PhD Fellow of Computer Science, Ashraful Islam Hridoy
 - Make machine learning algorithms and put them into practice
 
 ## Projects
 ### Bengali Paraphrase Generator(NLP Project)
+- A fully functional LLM model trained on large scale own collected Bengali Dataset
+- A google-mt5-base model trained and capable of generating high quality Bengali paraphrase
 [Live Model](https://huggingface.co/mHossain/bangla-para-v3-500000)
+
+
 

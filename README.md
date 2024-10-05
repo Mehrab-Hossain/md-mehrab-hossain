@@ -5,6 +5,11 @@
 ## Education
 - B.Sc (Engg), CSE | Sylhet Engineering College, Bangladesh (_June 2024_) | CGPA: 3.89/4.00
 
+## Research Area
+- Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision
+
+## Publications
+1.  
 ## Work Experience
 
 **Teaching Assistant**
@@ -49,4 +54,8 @@ high quality summaries.
 various results
 [Source Code](https://github.com/Mehrab-Hossain/Digital_image_processing_RAW_Image_median_filter/blob/main/testing_filter_code.cpp)
 
+### POS-System (DBMS Project)
+- A java application for record sales and transactions  
+- An java application that tracks sales of a shop using MySQL DataBase System
+[Source Code](https://github.com/Mehrab-Hossain/POS-System)
 

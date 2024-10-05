@@ -104,7 +104,7 @@ various results
 ## Technical Skills and Interests
 1. **Languages** : C, C++(2000+ problem solved), Python, Java, JavaScript. [Link](https://www.stopstalk.com/user/profile/mehrab)
 2. **Developer Tools** : Visual Studio Code, Jupyter Notebook, Code-blocks, Netbeans, IDE, Anaconda
-3. **rameworks** : TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, NodeJs, ExpressJs
+3. **Frameworks** : TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, NodeJs, ExpressJs
 4. **Cloud/Databases** : MySQL, SQLite, MongoDB
 5. **Soft Skills** : Web-Development,Competitive Problem Solving, Data Analysis
 6. **Areas of Interest** : Machine learning(NLP, Computer vision), Quantum Annealing, Data Science

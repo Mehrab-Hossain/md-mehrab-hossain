@@ -38,4 +38,15 @@
 high quality summaries.
 [Live Model](https://huggingface.co/mHossain/ml_sum_v1)
 
+### Ultimate Tic-Tac-Toe(AI Project)
+- A machine vs human playable Tic-Tac-Toy Game 
+- An Ai game by applying various state of the art ai algorithms
+[Source Code](https://github.com/Mehrab-Hossain/Ultimate-Tic---Tac--Toe-AI---C-/blob/main/ultimate_tic_tac_toe_final.cpp)
+
+### Digital Image Filter (DIP Project)
+- A c++ application that apply filters on an image 
+- An application that implements median filtering algorithm on RAW images in different parameters to generates
+various results
+[Source Code](https://github.com/Mehrab-Hossain/Digital_image_processing_RAW_Image_median_filter/blob/main/testing_filter_code.cpp)
+
 

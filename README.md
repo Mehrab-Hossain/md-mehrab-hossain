@@ -32,4 +32,10 @@
 [Live Model](https://huggingface.co/mHossain/bangla-para-v3-500000)
 
 
+### Multi Lingual Summary Generator (NLP Project)
+- A fully functional LLM model trained on five different languages to generate comprehensive summary
+- A google-mt5-large model trained on cross lingual data set like African, Azarbaijani and capable of generating
+high quality summaries.
+[Live Model](https://huggingface.co/mHossain/ml_sum_v1)
+
 

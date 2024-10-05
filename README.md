@@ -26,5 +26,6 @@
 - Make machine learning algorithms and put them into practice
 
 ## Projects
-
+### Bengali Paraphrase Generator(NLP Project)
+[Live Model](https://huggingface.co/mHossain/bangla-para-v3-500000)
 

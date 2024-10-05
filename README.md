@@ -97,3 +97,17 @@ various results
 - An java application that tracks sales of a shop using MySQL DataBase System
 [Source Code](https://github.com/Mehrab-Hossain/POS-System)
 
+
+## Technical Skills and Interests
+1. Languages : C, C++(2000+ problem solved), Python, Java, JavaScript. [Link](https://www.stopstalk.com/user/profile/mehrab)
+2. Developer Tools : Visual Studio Code, Jupyter Notebook, Code-blocks, Netbeans, IDE, Anaconda
+3. rameworks : TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, NodeJs, ExpressJs
+4. Cloud/Databases : MySQL, SQLite, MongoDB
+5. Soft Skills : Web-Development,Competitive Problem Solving, Data Analysis
+6. Areas of Interest : Machine learning(NLP, Computer vision), Quantum Annealing, Data Science
+7. Others:Git, Windows, LaTeX
+
+## Positions of Responsibility
+1. Secretary, SEC-CSE Research Club (_June 2023 - December 2024_)
+2. Vice-President, SEC Programming Club (_June 2023 - December 2024_)
+

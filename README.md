@@ -1,12 +1,12 @@
 # About Me
 
-My journey as a passionate machine learning and research enthusiast has been fueled by my high academic performance and participation in extracurricular activities. I have already published numerous articles and am consistently on the path to contributing to a variety of scientific fields through perseverance and dedication. My research interests are focused on the most advanced areas of AI technology, including quantum annealing, computer vision, and natural language processing (NLP).Therefore, I am motivated to investigate innovative solutions and push the boundaries of AI technology as well as passionate to address complex issues and facilitate significant advancements in these thrilling fields as a result of my academic accomplishments and profound curiosity.
+My journey as a passionate machine learning and research enthusiast has been fueled by my high academic performance and participation in extracurricular activities. I have already published numerous articles and consistently on the path to contributing a variety of scientific fields through perseverance and dedication. My research interests are focused on the most advanced areas of AI technology, including quantum annealing, computer vision, and natural language processing (NLP).Therefore, I am motivated to investigate innovative solutions and push the boundaries of AI technology as well as passionate to address complex issues and facilitate significant advancements in these thrilling fields as a result of my academic accomplishments and profound curiosity.
 
 
 ### Technical Skills: Python, TensorFlow, PyTorch, HuggingFace, Transformers
 
 ## Education
-- B.Sc (Engg), CSE | Sylhet Engineering College, Bangladesh (_June 2024_) | CGPA: 3.89/4.00
+- B.Sc (Engg), CSE | Sylhet Engineering College, Bangladesh (_June 2024_) | CGPA: **3.89**/4.00
 
 ## Research Area
 - Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision
@@ -20,19 +20,19 @@ Conference on Computational Intelligence and Communication Networks (CICN), Thai
 [Link](https://ieeexplore.ieee.org/abstract/document/10402353)
 
 2.  Predicting the Risks of Brain Stroke Using Machine Learning Models and Artificial Neural Network.
-Nahid N, Hossain M, Rifat AI, Raisa MD, Islam A. In 2023 3rd Annual International Conference on
+Nahid N, **Hossain M**, Rifat AI, Raisa MD, Islam A. In 2023 3rd Annual International Conference on
 Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS), India 2023
 Nov 16 (pp. 1-7). IEEE. 
 [Link](https://ieeexplore.ieee.org/document/10420159)
 
 3. Children Hematopoietic Stem Cell Transplant Survival Status Prediction using Machine Learning.
-Rifat AI,Hossain M, Nahid N, Akter S, Islam A. In 2023 3rd Annual International Conference on
+Rifat AI, **Hossain M**, Nahid N, Akter S, Islam A. In 2023 3rd Annual International Conference on
 Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS), India 2023
 Nov 16 (pp. 1-6). IEEE.  
 [Link](https://ieeexplore.ieee.org/abstract/document/10420035)
 
 4.  An Automatic System for Identifying and Categorizing Tribal Clothing Based on Convolutional Neural
-Networks. Islam A, Chowdhury T, Hossain M, Nahid N, Rifat AI. In 2022 4th International Conference
+Networks. Islam A, Chowdhury T, **Hossain M**, Nahid N, Rifat AI. In 2022 4th International Conference
 on Emerging Research Electronics, Computer Science and Technology (ICERECT), India 2022 Dec 26.
 IEEE. 
 [Link](https://ieeexplore.ieee.org/document/10060409)
@@ -55,20 +55,20 @@ evaluation.
 
 **Teaching Assistant**
 - Sylhet Engineering College (_September 2022 - May 2023_)
-- Responsible for the academic needs of Adjunct Lecturer of CSE department Ashraful Islam Hridoy
+- Responsible for the academic needs of **Adjunct Lecturer** of CSE department **Ashraful Islam Hridoy.**
 
 **Teaching Assistant**
 - Sylhet Engineering College (_June 2023 - Present_)
-- Responsible for the academic needs of Head of CSE department Md Abu Naser Mojumder
+- Responsible for the academic needs of **Head of CSE** department **Md Abu Naser Mojumder.**
 
 **Research Assistant**
 - Sylhet Engineering College (_September 2023 - Present_)
-- Work under the supervision of Head of CSE department Md Abu Naser Mojumder
+- Work under the supervision of **Head of CSE** department **Md Abu Naser Mojumder.**
 - Providing seminars and workshop for final year students concerning their academic thesis.
 
 **Research Assistant**
 - University of Regina (_June 2023 - Present_)
-- Work under the supervision of PhD Fellow of Computer Science, Ashraful Islam Hridoy
+- Work under the supervision of **PhD Fellow** of Computer Science, **Ashraful Islam Hridoy.**
 - Make machine learning algorithms and put them into practice
 
 ## Projects
@@ -102,15 +102,18 @@ various results
 
 
 ## Technical Skills and Interests
-1. Languages : C, C++(2000+ problem solved), Python, Java, JavaScript. [Link](https://www.stopstalk.com/user/profile/mehrab)
-2. Developer Tools : Visual Studio Code, Jupyter Notebook, Code-blocks, Netbeans, IDE, Anaconda
-3. rameworks : TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, NodeJs, ExpressJs
-4. Cloud/Databases : MySQL, SQLite, MongoDB
-5. Soft Skills : Web-Development,Competitive Problem Solving, Data Analysis
-6. Areas of Interest : Machine learning(NLP, Computer vision), Quantum Annealing, Data Science
-7. Others:Git, Windows, LaTeX
+1. **Languages** : C, C++(2000+ problem solved), Python, Java, JavaScript. [Link](https://www.stopstalk.com/user/profile/mehrab)
+2. **Developer Tools** : Visual Studio Code, Jupyter Notebook, Code-blocks, Netbeans, IDE, Anaconda
+3. **rameworks** : TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, NodeJs, ExpressJs
+4. **Cloud/Databases** : MySQL, SQLite, MongoDB
+5. **Soft Skills** : Web-Development,Competitive Problem Solving, Data Analysis
+6. **Areas of Interest** : Machine learning(NLP, Computer vision), Quantum Annealing, Data Science
+7. **Others** :Git, Windows, LaTeX
 
 ## Positions of Responsibility
-1. Secretary, SEC-CSE Research Club (_June 2023 - December 2024_)
-2. Vice-President, SEC Programming Club (_June 2023 - December 2024_)
+1. **Secretary**, SEC-CSE Research Club (_June 2023 - December 2024_)
+2. **Vice-President**, SEC Programming Club (_June 2023 - December 2024_)
 
+## Contact Info
+**Email:** hmehrab786@gmail.com
+**Google-Scholar:**[Link](https://scholar.google.com/citations?user=ivNRx64AAAAJ&hl=en)

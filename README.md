@@ -1,4 +1,7 @@
-# NLP Enthusiast
+# About Me
+
+My journey as a passionate machine learning and research enthusiast has been fueled by my high academic performance and participation in extracurricular activities. I have already published numerous articles and am consistently on the path to contributing to a variety of scientific fields through perseverance and dedication. My research interests are focused on the most advanced areas of AI technology, including quantum annealing, computer vision, and natural language processing (NLP).Therefore, I am motivated to investigate innovative solutions and push the boundaries of AI technology as well as passionate to address complex issues and facilitate significant advancements in these thrilling fields as a result of my academic accomplishments and profound curiosity.
+
 
 ### Technical Skills: Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, MySQL
 

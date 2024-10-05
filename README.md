@@ -9,7 +9,31 @@
 - Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision
 
 ## Publications
-1.  
+1.  Critical Analysis of BERT and LSTM Model for Bengali Sentiment Analysis Across Varied Datasets.
+Hossain M, Akhi IAH, Raisa SRS, Onni TS, Rifat AI, Islam A.In 2023 IEEE 15th International
+Conference on Computational Intelligence and Communication Networks (CICN), Thailand 2023 Dec20. IEEE. (pp. 1-6).
+[Link](https://ieeexplore.ieee.org/abstract/document/10402353)
+
+2.  Predicting the Risks of Brain Stroke Using Machine Learning Models and Artificial Neural Network.
+Nahid N, Hossain M, Rifat AI, Raisa MD, Islam A. In 2023 3rd Annual International Conference on
+Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS), India 2023
+Nov 16 (pp. 1-7). IEEE. 
+[Link](https://ieeexplore.ieee.org/document/10420159)
+
+3. Children Hematopoietic Stem Cell Transplant Survival Status Prediction using Machine Learning.
+Rifat AI,Hossain M, Nahid N, Akter S, Islam A. In 2023 3rd Annual International Conference on
+Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS), India 2023
+Nov 16 (pp. 1-6). IEEE.  
+[Link](https://ieeexplore.ieee.org/abstract/document/10420035)
+
+4.  An Automatic System for Identifying and Categorizing Tribal Clothing Based on Convolutional Neural
+Networks. Islam A, Chowdhury T, Hossain M, Nahid N, Rifat AI. In 2022 4th International Conference
+on Emerging Research Electronics, Computer Science and Technology (ICERECT), India 2022 Dec 26.
+IEEE. 
+[Link](https://ieeexplore.ieee.org/document/10060409)
+
+
+
 ## Work Experience
 
 **Teaching Assistant**

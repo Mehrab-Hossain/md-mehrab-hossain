@@ -53,13 +53,16 @@ evaluation.
 
 ## Work Experience
 
-**Teaching Assistant**
-- Sylhet Engineering College (_September 2022 - May 2023_)
-- Responsible for the academic needs of **Adjunct Lecturer** of CSE department **Ashraful Islam Hridoy.**
-
-**Teaching Assistant**
-- Sylhet Engineering College (_June 2023 - Present_)
-- Responsible for the academic needs of **Head of CSE** department **Md Abu Naser Mojumder.**
+**Adjunct Lecturer**
+- Sylhet Engineering College (_September 2024 - Present_)
+- Instruct undergraduate courses, evaluate assessments, and provide academic consultations
+- Assist with grading assignments, quizzes, and tests, as well as maintaining accurate records of students.
+- *Course Instructed*:
+- *CSE-235*: Numerical Methods
+- *CSE-236*: Numerical Methods Sessional (Sessional)
+- *CSE-240*: Introduction to Competitive programming with C++
+- *CSE-609*: Cryptography and Network Security
+- *CSE-610*: Cryptography and Network Security (Sessional)
 
 **Research Assistant**
 - Sylhet Engineering College (_September 2023 - Present_)

@@ -54,7 +54,7 @@ evaluation.
 ## Work Experience
 
 **Adjunct Lecturer**
-- Sylhet Engineering College (_September 2024 - Present_)
+- Sylhet Engineering College, Bangladesh (_September 2024 - Present_)
 - Instruct undergraduate courses, evaluate assessments, and provide academic consultations
 - Assist with grading assignments, quizzes, and tests, as well as maintaining accurate records of students.
 - *Course Instructed*:
@@ -65,12 +65,12 @@ evaluation.
 - *CSE-610*: Cryptography and Network Security (Sessional)
 
 **Research Assistant**
-- Sylhet Engineering College (_September 2023 - Present_)
+- Sylhet Engineering College, Bangladesh (_September 2023 - Present_)
 - Work under the supervision of **Head of CSE** department **Md Abu Naser Mojumder.**
 - Providing seminars and workshop for final year students concerning their academic thesis.
 
 **Research Assistant**
-- University of Regina (_June 2023 - Present_)
+- University of Regina, Canada (_June 2023 - Present_)
 - Work under the supervision of **PhD Fellow** of Computer Science, **Ashraful Islam Hridoy.**
 - Make machine learning algorithms and put them into practice
 

@@ -3,9 +3,9 @@
 My journey as a passionate machine learning and research enthusiast has been fueled by my high academic performance and participation in extracurricular activities. I have already published numerous articles and consistently on the path to contributing a variety of scientific fields through perseverance and dedication. My research interests are focused on the most advanced areas of AI technology, including quantum annealing, computer vision, and natural language processing (NLP).Therefore, I am motivated to investigate innovative solutions and push the boundaries of AI technology as well as passionate to address complex issues and facilitate significant advancements in these thrilling fields as a result of my academic accomplishments and profound curiosity.
 
 ## Contact Info
--**Email:** hmehrab786@gmail.com
--**Google-Scholar:**[Link](https://scholar.google.com/citations?user=ivNRx64AAAAJ&hl=en)
--**LinkedIn:**[Link](https://www.linkedin.com/in/md-mehrab-hossain-645594174/)
+- **Email:** hmehrab786@gmail.com
+- **Google-Scholar:**[Link](https://scholar.google.com/citations?user=ivNRx64AAAAJ&hl=en)
+- **LinkedIn:**[Link](https://www.linkedin.com/in/md-mehrab-hossain-645594174/)
 
 ### Technical Skills: Python, TensorFlow, PyTorch, HuggingFace, Transformers
 

@@ -18,35 +18,39 @@ My journey as a passionate machine learning and research enthusiast has been fue
 ## Publications
 
 **Live Papers**
-1.  Critical Analysis of BERT and LSTM Model for Bengali Sentiment Analysis Across Varied Datasets.
+1.  Optimizing Round Robin Scheduling with DBSCAN Clustering and Machine Learning.
+**Md Mehrab Hossain**; Nanziba Khan Biva; Nafiz Nahid; Ariful Islam Rifat; Ashraful Islam. 2024 IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON),  01-02 November 2024, Khulna, Bangladesh. IEEE. (pp. 1-6).
+[Link](https://ieeexplore.ieee.org/document/10941280)
+
+2.  BDNEWS: Advance Bengali Sensitivity Corpus and Classifiers.
+Musammat Tania Sultana Hafsa; Taahia Tahsin; **Md Mehrab Hossain**; Ashraful Islam. 2024 IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON),  01-02 November 2024, Khulna, Bangladesh. IEEE. (pp. 1-6).
+[Link](https://ieeexplore.ieee.org/document/10941231)
+
+3.  Critical Analysis of BERT and LSTM Model for Bengali Sentiment Analysis Across Varied Datasets.
 **Hossain M**, Akhi IAH, Raisa SRS, Onni TS, Rifat AI, Islam A.In 2023 IEEE 15th International
 Conference on Computational Intelligence and Communication Networks (CICN), Thailand 2023 Dec20. IEEE. (pp. 1-6).
 [Link](https://ieeexplore.ieee.org/abstract/document/10402353)
 
-2.  Predicting the Risks of Brain Stroke Using Machine Learning Models and Artificial Neural Network.
+4.  Predicting the Risks of Brain Stroke Using Machine Learning Models and Artificial Neural Network.
 Nahid N, **Hossain M**, Rifat AI, Raisa MD, Islam A. In 2023 3rd Annual International Conference on
 Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS), India 2023
 Nov 16 (pp. 1-7). IEEE. 
 [Link](https://ieeexplore.ieee.org/document/10420159)
 
-3. Children Hematopoietic Stem Cell Transplant Survival Status Prediction using Machine Learning.
+5. Children Hematopoietic Stem Cell Transplant Survival Status Prediction using Machine Learning.
 Rifat AI, **Hossain M**, Nahid N, Akter S, Islam A. In 2023 3rd Annual International Conference on
 Emerging Research Areas: International Conference on Intelligent Systems (AICERA/ICIS), India 2023
 Nov 16 (pp. 1-6). IEEE.  
 [Link](https://ieeexplore.ieee.org/abstract/document/10420035)
 
-4.  An Automatic System for Identifying and Categorizing Tribal Clothing Based on Convolutional Neural
+6.  An Automatic System for Identifying and Categorizing Tribal Clothing Based on Convolutional Neural
 Networks. Islam A, Chowdhury T, **Hossain M**, Nahid N, Rifat AI. In 2022 4th International Conference
 on Emerging Research Electronics, Computer Science and Technology (ICERECT), India 2022 Dec 26.
 IEEE. 
 [Link](https://ieeexplore.ieee.org/document/10060409)
 
 **Accepted Paper & Waiting for Published**
-1. Deep Learning Approaches for Sensitivity Prediction in Bengali News Text.
-2. Optimizing Round Robin Scheduling with DBSCAN-Driven Process Clustering and Machine
-Learning-Guided Time. Quantum Prediction for Minimizing Waiting Times and Context Switch.
 
-**Submitted & Under Review**
 1. A Large-Scale Bengali Paraphrase Generation Dataset: Comprehensive Study of
 Language Models and Performance Analysis.
 2. A Large Scale Dataset for Multilingual Summarization with a novel Filtering approach and Model
